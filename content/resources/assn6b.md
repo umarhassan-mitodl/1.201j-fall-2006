@@ -6,6 +6,8 @@ description: Part B is an individual assignment (to be handed out on November 28
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/32a6583c96e8639ad116e1edec063366_assn6b.pdf
 file_size: 45559
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

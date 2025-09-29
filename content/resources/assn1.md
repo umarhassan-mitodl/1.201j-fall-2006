@@ -4,6 +4,8 @@ description: Writing assignment.
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/42e6dfdad2f8e889884a39891409561e_assn1.pdf
 file_size: 72697
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains information on topics hierarchy of choices, 
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/71523b04091243dede719c1e3e9fc446_lect9.pdf
 file_size: 282656
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Part A addresses issues related to the capacity, performance, and d
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/3eceba82b36c4663d56116a996ebf09b_assn6a.pdf
 file_size: 255625
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

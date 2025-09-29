@@ -5,6 +5,8 @@ description: This resource contains information on topics conceptual view of TSA
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/3b0d4df8a8cba5293fa24547b532e997_lect5_6.pdf
 file_size: 344785
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

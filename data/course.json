@@ -24,6 +24,7 @@
     "website": "1-201j-introduction-to-transportation-systems-fall-2006"
   },
   "course_title": "Introduction to Transportation Systems",
+  "hide_download": true,
   "course_description": "1.201J/11.545J/ESD.210J is required for all first-year Master of Science in Transportation students. It would be of interest to, as well as accessible to, students in Urban Studies and Planning, Political Science, Technology and Policy, Management, and various engineering departments. It is a good subject for those who plan to take only one subject in transportation and serves as an entry point to other transportation subjects as well.\n\nThe subject focuses on fundamental principles of transportation systems, introduces transportation systems components and networks, and addresses how one invests in and operates them effectively. The tie between transportation and related systems is emphasized.\n",
   "department_numbers": [
     "1",
@@ -36,6 +37,7 @@
     "content": "db836856-d1bf-d17a-54c2-c1885055245a",
     "website": "1-201j-introduction-to-transportation-systems-fall-2006"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"

@@ -4,6 +4,8 @@ description: Homework assignment.
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/21941b0f6ed06dc878a3a3ac5b73cfe1_assn4.pdf
 file_size: 72117
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

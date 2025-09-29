@@ -5,6 +5,8 @@ description: This resource contains information on topics peak traffic demands c
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/0c8389f2dd20deee731af846335d1b34_lect7_8.pdf
 file_size: 4217392
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
