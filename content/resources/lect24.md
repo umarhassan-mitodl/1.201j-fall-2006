@@ -5,8 +5,6 @@ description: This resource contains information on topics japan, argentina, brit
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/a12ded43e5eac8e26d76f0f2309ebd8e_lect24.pdf
 file_size: 187459
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

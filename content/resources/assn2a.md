@@ -7,8 +7,6 @@ description: Lecture 4, Assignments 2A and 2B are a coordinated enterprise. The 
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/2fa4708ad490004a5dddf97c45ced2bf_assn2a.pdf
 file_size: 73927
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

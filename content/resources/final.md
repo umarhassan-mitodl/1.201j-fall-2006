@@ -4,8 +4,6 @@ description: Final examination problems.
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/718139427180350aef25671848673009_final.pdf
 file_size: 68079
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

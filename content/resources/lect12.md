@@ -5,8 +5,6 @@ description: This resource contains information on topics frequency-ridership re
 file: /courses/1-201j-introduction-to-transportation-systems-fall-2006/6045f9522389eea563fcdaed5258dfc2_lect12.pdf
 file_size: 110916
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
